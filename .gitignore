@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+__pycache__/
+data/
+*.mat
+*.npz
+*.npy
+*.pkl
+*.joblib
+.env
